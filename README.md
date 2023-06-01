@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/hansika-amrutkar-441751221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hansika-amrutkar-441751221" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/hansika002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/hansika002" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@amrutkarhansika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@amrutkarhansika" height="30" width="40" /></a>
+<a href="linkedin.com/in/hansika-amrutkar-441751221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hansika-amrutkar-441751221" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hansika002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/hansika002" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com//@amrutkarhansika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@amrutkarhansika" height="30" width="40" /></a>
 <a href="https://discord.gg/han_amr002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="han_amr002" height="30" width="40" /></a>
 </p>
 
