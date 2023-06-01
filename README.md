@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansika</h1>
 <h3 align="center">A tech enthusiast passionate about exploring innovative technologies and connecting with like-minded individuals.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansika002" alt="hansika002" /></a> </p>
 
